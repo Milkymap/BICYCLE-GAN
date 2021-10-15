@@ -1,4 +1,4 @@
-# CYCLE-GAN
+# BICYCLE-GAN
 Implementation of of the paper Toward Multimodal Image-to-Image Translation
 
 # image to image translation 
